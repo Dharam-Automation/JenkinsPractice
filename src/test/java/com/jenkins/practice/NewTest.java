@@ -15,7 +15,7 @@ public class NewTest {
 		
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 		driver.manage().window().maximize();
-		driver.close();
+		//driver.close();
 
   }
 }
